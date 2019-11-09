@@ -1,0 +1,10 @@
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.DataDisplay.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
