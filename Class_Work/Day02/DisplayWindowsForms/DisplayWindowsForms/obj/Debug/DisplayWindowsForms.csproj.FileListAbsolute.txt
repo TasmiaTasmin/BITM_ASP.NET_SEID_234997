@@ -1,0 +1,9 @@
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.HomeApplication.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.Properties.Resources.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.csproj.GenerateResource.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.csproj.CoreCompileInputs.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\bin\Debug\DisplayWindowsForms.exe.config
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\bin\Debug\DisplayWindowsForms.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\bin\Debug\DisplayWindowsForms.pdb
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayWindowsForms\DisplayWindowsForms\obj\Debug\DisplayWindowsForms.pdb
