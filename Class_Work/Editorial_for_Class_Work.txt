@@ -2,3 +2,6 @@ Class # 01:
 
 Day # 01:
 Simple Console Application 
+
+Day # 02:
+Windows Forms Application 
