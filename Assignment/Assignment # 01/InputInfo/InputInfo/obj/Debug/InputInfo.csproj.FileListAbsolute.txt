@@ -1,0 +1,7 @@
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\bin\Debug\InputInfo.exe.config
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\bin\Debug\InputInfo.exe
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\bin\Debug\InputInfo.pdb
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\obj\Debug\InputInfo.csprojAssemblyReference.cache
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\obj\Debug\InputInfo.csproj.CoreCompileInputs.cache
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\obj\Debug\InputInfo.exe
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\InputInfo\InputInfo\obj\Debug\InputInfo.pdb
