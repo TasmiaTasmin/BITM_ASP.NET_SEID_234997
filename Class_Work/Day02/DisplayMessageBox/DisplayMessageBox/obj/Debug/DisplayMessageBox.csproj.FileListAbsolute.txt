@@ -1,0 +1,10 @@
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\bin\Debug\DisplayMessageBox.exe.config
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\bin\Debug\DisplayMessageBox.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\bin\Debug\DisplayMessageBox.pdb
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.csprojAssemblyReference.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.HomeApplication.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.Properties.Resources.resources
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.csproj.GenerateResource.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.csproj.CoreCompileInputs.cache
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.exe
+E:\_____Programming_Folder\Visual_Studio\Day02\DisplayMessageBox\DisplayMessageBox\obj\Debug\DisplayMessageBox.pdb
