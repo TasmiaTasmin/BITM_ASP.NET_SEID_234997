@@ -1,0 +1,14 @@
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csprojAssemblyReference.cache
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+D:\GitHub\DotNet\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csprojAssemblyReference.cache
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+E:\_____Programming_Folder\Visual_Studio\Assignment\01\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb
