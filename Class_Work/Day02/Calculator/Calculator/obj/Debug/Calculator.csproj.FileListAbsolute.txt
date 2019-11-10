@@ -1,0 +1,10 @@
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\Calculator\Calculator\obj\Debug\Calculator.pdb
