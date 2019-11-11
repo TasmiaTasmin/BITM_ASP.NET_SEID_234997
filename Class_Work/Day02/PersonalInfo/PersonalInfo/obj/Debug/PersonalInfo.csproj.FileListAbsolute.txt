@@ -1,0 +1,10 @@
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csprojAssemblyReference.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.PersonalInfo.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.Properties.Resources.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.GenerateResource.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Class_Work\Day02\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb
