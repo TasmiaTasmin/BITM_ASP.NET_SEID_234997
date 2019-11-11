@@ -1,0 +1,10 @@
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\bin\Debug\BookShop.exe.config
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\bin\Debug\BookShop.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\bin\Debug\BookShop.pdb
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.BookShop.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.exe
+D:\GitHub\BITM_ASP.NET_SEID_234997\Assignment\Assignment # 02\BookShop\BookShop\obj\Debug\BookShop.pdb

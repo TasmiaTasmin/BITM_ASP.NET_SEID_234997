@@ -67,6 +67,11 @@
             // comboBoxOrder
             // 
             this.comboBoxOrder.FormattingEnabled = true;
+            this.comboBoxOrder.Items.AddRange(new object[] {
+            "Math",
+            "English",
+            "Bangla",
+            "Art"});
             this.comboBoxOrder.Location = new System.Drawing.Point(177, 197);
             this.comboBoxOrder.Name = "comboBoxOrder";
             this.comboBoxOrder.Size = new System.Drawing.Size(100, 21);
@@ -80,6 +85,7 @@
             this.buttonSave.TabIndex = 2;
             this.buttonSave.Text = "SAVE";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // labelCustomerName
             // 
