@@ -5,3 +5,6 @@ Simple Console Application
 
 Day # 02:
 Windows Forms Application 
+
+Day # 03:
+Array, ArrayList, List
