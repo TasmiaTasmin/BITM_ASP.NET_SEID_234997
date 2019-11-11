@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBoxCustomerInformation = new System.Windows.Forms.GroupBox();
+            this.comboBoxOrder = new System.Windows.Forms.ComboBox();
             this.buttonSave = new System.Windows.Forms.Button();
             this.labelCustomerName = new System.Windows.Forms.Label();
             this.textBoxCustomerName = new System.Windows.Forms.TextBox();
@@ -40,7 +41,6 @@
             this.textBoxQuantity = new System.Windows.Forms.TextBox();
             this.labelOrder = new System.Windows.Forms.Label();
             this.richTextBoxOutput = new System.Windows.Forms.RichTextBox();
-            this.comboBoxOrder = new System.Windows.Forms.ComboBox();
             this.groupBoxCustomerInformation.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,6 +64,19 @@
             this.groupBoxCustomerInformation.TabStop = false;
             this.groupBoxCustomerInformation.Text = "Customer Information";
             // 
+            // comboBoxOrder
+            // 
+            this.comboBoxOrder.FormattingEnabled = true;
+            this.comboBoxOrder.Items.AddRange(new object[] {
+            "Black",
+            "Cold",
+            "Hot",
+            "Reguler"});
+            this.comboBoxOrder.Location = new System.Drawing.Point(177, 197);
+            this.comboBoxOrder.Name = "comboBoxOrder";
+            this.comboBoxOrder.Size = new System.Drawing.Size(100, 21);
+            this.comboBoxOrder.TabIndex = 3;
+            // 
             // buttonSave
             // 
             this.buttonSave.Location = new System.Drawing.Point(257, 273);
@@ -72,6 +85,7 @@
             this.buttonSave.TabIndex = 2;
             this.buttonSave.Text = "SAVE";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // labelCustomerName
             // 
@@ -153,14 +167,6 @@
             this.richTextBoxOutput.Size = new System.Drawing.Size(212, 323);
             this.richTextBoxOutput.TabIndex = 1;
             this.richTextBoxOutput.Text = "";
-            // 
-            // comboBoxOrder
-            // 
-            this.comboBoxOrder.FormattingEnabled = true;
-            this.comboBoxOrder.Location = new System.Drawing.Point(177, 197);
-            this.comboBoxOrder.Name = "comboBoxOrder";
-            this.comboBoxOrder.Size = new System.Drawing.Size(100, 21);
-            this.comboBoxOrder.TabIndex = 3;
             // 
             // CoffeeShop
             // 
